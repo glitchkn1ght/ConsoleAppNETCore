@@ -1,0 +1,13 @@
+C:\Users\James\source\repos\ConsoleAppNETCore\bin\Debug\netcoreapp3.1\ConsoleAppNETCore.exe
+C:\Users\James\source\repos\ConsoleAppNETCore\bin\Debug\netcoreapp3.1\ConsoleAppNETCore.deps.json
+C:\Users\James\source\repos\ConsoleAppNETCore\bin\Debug\netcoreapp3.1\ConsoleAppNETCore.runtimeconfig.json
+C:\Users\James\source\repos\ConsoleAppNETCore\bin\Debug\netcoreapp3.1\ConsoleAppNETCore.runtimeconfig.dev.json
+C:\Users\James\source\repos\ConsoleAppNETCore\bin\Debug\netcoreapp3.1\ConsoleAppNETCore.dll
+C:\Users\James\source\repos\ConsoleAppNETCore\bin\Debug\netcoreapp3.1\ConsoleAppNETCore.pdb
+C:\Users\James\source\repos\ConsoleAppNETCore\obj\Debug\netcoreapp3.1\ConsoleAppNETCore.csprojAssemblyReference.cache
+C:\Users\James\source\repos\ConsoleAppNETCore\obj\Debug\netcoreapp3.1\ConsoleAppNETCore.AssemblyInfoInputs.cache
+C:\Users\James\source\repos\ConsoleAppNETCore\obj\Debug\netcoreapp3.1\ConsoleAppNETCore.AssemblyInfo.cs
+C:\Users\James\source\repos\ConsoleAppNETCore\obj\Debug\netcoreapp3.1\ConsoleAppNETCore.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\ConsoleAppNETCore\obj\Debug\netcoreapp3.1\ConsoleAppNETCore.dll
+C:\Users\James\source\repos\ConsoleAppNETCore\obj\Debug\netcoreapp3.1\ConsoleAppNETCore.pdb
+C:\Users\James\source\repos\ConsoleAppNETCore\obj\Debug\netcoreapp3.1\ConsoleAppNETCore.genruntimeconfig.cache
